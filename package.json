@@ -41,7 +41,7 @@
   "author": "bruzethegreat",
   "license": "MIT",
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^0.4.0"
+    "@modelcontextprotocol/sdk": "^1.27.1"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
@@ -53,10 +53,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bruzethegreat/gsap-master-mcp-server"
+    "url": "https://github.com/aaron-krav-main/gsap-master-mcp-server"
   },
   "bugs": {
-    "url": "https://github.com/bruzethegreat/gsap-master-mcp-server/issues"
+    "url": "https://github.com/aaron-krav-main/gsap-master-mcp-server/issues"
   },
-  "homepage": "https://github.com/bruzethegreat/gsap-master-mcp-server#readme"
+  "homepage": "https://github.com/aaron-krav-main/gsap-master-mcp-server#readme"
 }
